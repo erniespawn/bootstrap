@@ -1,25 +1,25 @@
 # bootstrap
 
 
-To check repo on local machine
+## To check repo on local machine
 
 git remote -v
 
 
-To check status
+## To check status
 
 git status
 
-To add files 
+## To add files 
 
 git add . 
 
 
-To add comments
+## To add comments
 
 git commit -m "my first commit"
 
-To push to repo
+## To push to repo
 
 git push 
 
