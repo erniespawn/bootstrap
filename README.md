@@ -18,3 +18,6 @@ git commit -m "my first commit"
 To push to repo
 git push 
 
+
+
+Thanks
